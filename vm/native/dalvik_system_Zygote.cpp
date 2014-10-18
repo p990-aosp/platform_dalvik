@@ -19,6 +19,7 @@
  */
 #include "Dalvik.h"
 #include "native/InternalNativePriv.h"
+#include <sys/resource.h>
 
 #include <signal.h>
 #include <sys/types.h>
